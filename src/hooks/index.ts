@@ -1,4 +1,3 @@
-import useSafeAreaInsets from './useSafeAreaInsets';
-import useRoute from './useRoute';
-
-export {useSafeAreaInsets, useRoute};
+export {default as useSafeAreaInsets} from './useSafeAreaInsets';
+export {default as useRoute} from './useRoute';
+export {default as useWindowDimensions} from './useWindowDimensions';

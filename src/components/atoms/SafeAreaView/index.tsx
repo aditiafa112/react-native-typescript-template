@@ -4,7 +4,7 @@ import {View as RNView, ViewProps} from 'react-native';
 import {styled, StyledProps} from 'nativewind';
 import clsxm from '../../../utils/clsxm';
 
-const View = styled(RNView);
+const View = styled(RNView, {});
 
 const SafeAreaView = ({
   children,
