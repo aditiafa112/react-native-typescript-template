@@ -1,3 +1,3 @@
 export {default as clsxm} from './clsxm';
-export {default as share} from './share';
-export {default as Alert} from './alert';
+export {default as Share} from './Share';
+export {default as Alert} from './Alert';
